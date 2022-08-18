@@ -20,4 +20,12 @@ h1 {
     .hola-mundo {
         background-color: chocolate;
     }
+    .flex-index {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .flex-index img {
+        padding: 5px;
+    }
 }
